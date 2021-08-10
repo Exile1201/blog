@@ -1,5 +1,5 @@
-site: Gesko
-title: Gesko
+site: blog
+title: Exile1201 Blog
 description: >-
   just a minimalist, personal blog
 googlewebfonts: Fira+Code:wght@400;500;700
@@ -9,17 +9,17 @@ repo: https://github.com/p0wex/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: p0wex
+  name: Exile1201
   bio: just a minimalist, personal blog
-  username: p0wex # general username
-  github: p0wex # github username
-  twitter: P0Wex # twitter username
+  username: exile1201 # general username
+  github: exile1201 # github username
+  twitter: exile1201 # twitter username
   email: your-email@email.com # email adress
 
 # URL settings
-url: "https://powex.ml" #
-baseurl: "/Gesko" # leave blank if not wishd
-permalink: "https://powex.ml/Gesko/"
+url: "https://exile1201.github.io/blog" #
+baseurl: "/blog" # leave blank if not wishd
+permalink: ""
 permalink: pretty 
 
 
@@ -56,7 +56,7 @@ collections:
     output: true
     permalink: /:name
   posts:
-    output: true
+    output: false
     permalink: /:year/:month/:day/:slug
   
 defaults:
