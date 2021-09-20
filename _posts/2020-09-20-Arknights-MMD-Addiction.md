@@ -3,7 +3,7 @@ layout: post
 title: Arknights MMD Addiction Sora
 description: How to install Jekyll using Homebrew
 summary: Video
-tags: MMD YT Arknights
+tags: mmd yt arknights
 minute: 1
 ---
 # Arknights 
